@@ -11,7 +11,7 @@ import android.view.View;
 import android.widget.Scroller;
 
 /**
- * Created by sszz on 2017/2/9.
+ * Created by huaqing on 2017/2/9.
  */
 
 public class HeadScrollBehavior extends CoordinatorLayout.Behavior<RecyclerView> {

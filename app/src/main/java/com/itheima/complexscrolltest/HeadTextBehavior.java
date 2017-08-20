@@ -9,7 +9,7 @@ import android.util.Log;
 import android.view.View;
 
 /**
- * Created by sszz on 2017/2/14.
+ * Created by huaqing on 2017/2/14.
  */
 
 public class HeadTextBehavior extends CoordinatorLayout.Behavior<View> {
